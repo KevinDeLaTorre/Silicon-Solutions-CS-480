@@ -8,6 +8,9 @@ http://www.cpp.edu/~parking/parking-permit-pay-stations.shtml
 #### Bronco Express Shuttle Map: Live Stream:
 https://broncoshuttle.com/map
 
+Text only ( Easier for scraping ):
+https://broncoshuttle.com/simple/routes
+
 #### 360 Panoramic Views
 http://www.cpp.edu/~virtual-tour/360-panoramas/
 
